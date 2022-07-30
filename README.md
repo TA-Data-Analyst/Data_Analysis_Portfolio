@@ -16,6 +16,7 @@ In this portfolio, I am looking to Showcase my skills, projects, progress and im
   + [Global Mycobacteria tuberculosis Analysis](#global-mycobacteria-tuberculosis-analysis)
 - [Study Projects](#study-projects)
 - [Presentation Skills](#presentation-skills)
+  + [University Dissertation Pitch Presentation](#university-dissertation-pitch-presentation)
 
 ## Portfolio Projects
 This section will showcase a list of projects I have undertaken and briefly describe each project.
@@ -29,6 +30,6 @@ This section showcases some evidence of work done during my learning through cou
 This section will list various materials that I have created to showcase my presentational skills.
 
 ### University Dissertation Pitch Presentation
-For my Bachelor's dissertation at university, I created a presentation to pitch my topic of choice to fellow students as well as overseeing professors. I believe it showcases my ability to make informative yet clear and concise presentations well. 
+For my Bachelor's dissertation at university, I created a presentation to pitch my topic of choice to fellow students as well as overseeing professors. The aim of the Presentation was to givbe a brief overview and background knowledge of what topic question my dissertation would try to answer. I believe it showcases my ability to make informative yet clear and concise presentations well. 
 <br>
 **Presentation Slides:** ['Pitch Presentation Slides'](https://github.com/TA-Data-Analyst/Data_Analysis_Portfolio/blob/main/TA_dissertation_pitch_presentation.pdf)
