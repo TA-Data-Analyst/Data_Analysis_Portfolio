@@ -29,4 +29,6 @@ This section showcases some evidence of work done during my learning through cou
 This section will list various materials that I have created to showcase my presentational skills.
 
 ### University Dissertation Pitch Presentation
+For my Bachelor's dissertation at university, I created a presentation to pitch my topic of choice to fellow students as well as overseeing professors. I believe it showcases my ability to make informative yet clear and concise presentations well. 
+<br>
 **Presentation Slides:** ['Pitch Presentation Slides'](https://github.com/TA-Data-Analyst/Data_Analysis_Portfolio/blob/main/TA_dissertation_pitch_presentation.pdf)
