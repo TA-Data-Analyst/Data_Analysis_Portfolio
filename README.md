@@ -27,3 +27,6 @@ This section showcases some evidence of work done during my learning through cou
 
 ## Presentation Skills
 This section will list various materials that I have created to showcase my presentational skills.
+
+### University Dissertation Pitch Presentation
+**Presentation Slides:** ['Pitch Presentation Slides'](https://github.com/TA-Data-Analyst/Data_Analysis_Portfolio/blob/main/TA_dissertation_pitch_presentation.pdf)
