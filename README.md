@@ -14,7 +14,7 @@ In this portfolio, I am looking to Showcase my skills, projects, progress and im
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects) 
   + [Global Mycobacteria tuberculosis Analysis](#global-mycobacteria-tuberculosis-analysis)
-- [Study Projects](#study-projects)
+- [Practice Projects](#practice-projects)
 - [Presentation Skills](#presentation-skills)
   + [University Dissertation Pitch Presentation](#university-dissertation-pitch-presentation)
 
@@ -23,8 +23,8 @@ This section will showcase a list of projects I have undertaken and briefly desc
 
 ### Global Mycobacteria Tuberculosis Analysis
 
-## Study Projects
-This section showcases some evidence of work done during my learning through courses and online resources.
+## Practice Projects
+This section showcases some evidence of work done during my learning through courses and online resources where I have practiced to apply new tools and functions.
 
 ## Presentation Skills
 This section will list various materials that I have created to showcase my presentational skills.
