@@ -41,6 +41,7 @@ This section showcases some work done during my learning through courses and onl
 **Description:** I have compiled a list of SQL queries that I have used while completing tasks for various online learning courses I have undertaken.
 <br>
 **Repository:** ['SQL_Repository'](https://github.com/TA-Data-Analyst/SQL_Repository)
+<br>
 **Status:** Ongoing
 
 
