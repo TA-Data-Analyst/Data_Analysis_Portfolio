@@ -4,9 +4,9 @@
 
 Hi, I’m Tahmid Ahmed. I am currently a medical laboratory assistant with a Bachelor's in Biomedical Science and I am looking to expand my horizons towards data science and analytics.
 <br>
-I have completed the Google Data Analytics Professional Certificate on Coursera to begin my journey towards a career in data science.
+I have completed the Google Data Analytics Professional Certificate on Coursera to begin my journey towards a career in data science. I am now using resources in [Codecademy](https://www.codecademy.com/catalog) to further learn more about SQL, R and begin learning how to use Python to conduct Data Analytics.
 <br>
-In this portfolio, I am looking to Showcase my skills, projects, progress and improvements in the field of Data Science, as I go along, for potential employers and those interested in my skills and growing expertise.
+In this portfolio, I am looking to Showcase my skills, projects, progress and improvements in the field of Data Science, as I go on my journey, for those interested in my skills and growing expertise.
 <br>
 
  
@@ -15,6 +15,7 @@ In this portfolio, I am looking to Showcase my skills, projects, progress and im
 - [Portfolio Projects](#portfolio-projects) 
   + [Global Mycobacteria tuberculosis Analysis](#global-mycobacteria-tuberculosis-analysis)
 - [Practice Projects](#practice-projects)
+  + [Coursera Google Data Analytics Professional Certificate](#coursera-google-data-analytics-professional-certificate)
 - [Presentation Skills](#presentation-skills)
   + [University Dissertation Pitch Presentation](#university-dissertation-pitch-presentation)
 
@@ -22,14 +23,24 @@ In this portfolio, I am looking to Showcase my skills, projects, progress and im
 This section will showcase a list of projects I have undertaken and briefly describe each project.
 
 ### Global Mycobacteria Tuberculosis Analysis
+**Description:** I decided for my very first personal project, I would revisit my dissertation topic at university and analyse the global trends in M. tuberculosis.    Originally, I had used third party analysis in my writing. Now that I have the knowledge to make my own analytics and data viz, I thought it would be a good idea to start my portfolio revisiting and improving old work.
+<br>
+
 
 ## Practice Projects
-This section showcases some evidence of work done during my learning through courses and online resources where I have practiced to apply new tools and functions.
+This section showcases some work done during my learning through courses and online resources where I have practiced to apply new tools and functions.
+
+### Coursera Google Data Analytics Professional Certificate
+**Description:** I have undertaken the Google Data Anlaytics course as my first step into the world of data anaytics and data science. The course allows me to understand how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming and learn key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, R programming, Tableau).
+**Status:** Completed in July 2022 
+<br>
+**Certificate:** ['Google Data Analytics Certificate'](https://github.com/TA-Data-Analyst/Data_Analysis_Portfolio/blob/main/GoogleDataAnalyticsCertificate_Badge20220730-46-ccuh1y.pdf) 
+
 
 ## Presentation Skills
 This section will list various materials that I have created to showcase my presentational skills.
 
 ### University Dissertation Pitch Presentation
-For my Bachelor's dissertation at university, I created a presentation to pitch my topic of choice to fellow students as well as overseeing professors. The aim of the Presentation was to givbe a brief overview and background knowledge of what topic question my dissertation would try to answer. I believe it showcases my ability to make informative yet clear and concise presentations well. 
+**Description:** For my Bachelor's dissertation at university, I created a presentation to pitch my topic of choice to fellow students as well as overseeing professors. The aim of the Presentation was to givbe a brief overview and background knowledge of what topic question my dissertation would try to answer. I believe it showcases my ability to make informative yet clear and concise presentations well. 
 <br>
 **Presentation Slides:** ['Pitch Presentation Slides'](https://github.com/TA-Data-Analyst/Data_Analysis_Portfolio/blob/main/TA_dissertation_pitch_presentation.pdf)
