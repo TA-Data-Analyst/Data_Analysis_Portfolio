@@ -14,8 +14,9 @@ In this portfolio, I am looking to Showcase my skills, projects, progress and im
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects) 
   + [Global Mycobacteria tuberculosis Analysis](#global-mycobacteria-tuberculosis-analysis)
-- [Practice Projects](#practice-projects)
+- [Learning Log](#learning-log)
   + [Coursera Google Data Analytics Professional Certificate](#coursera-google-data-analytics-professional-certificate)
+  + [Learning SQL](#learning-SQL)
 - [Presentation Skills](#presentation-skills)
   + [University Dissertation Pitch Presentation](#university-dissertation-pitch-presentation)
 
@@ -25,9 +26,9 @@ This section will showcase a list of projects I have undertaken and briefly desc
 ### Global Mycobacteria Tuberculosis Analysis
 **Description:** I decided for my very first personal project, I would revisit my dissertation topic at university and analyse the global trends in M. tuberculosis.    Originally, I had used third party analysis in my writing. Now that I have the knowledge to make my own analytics and data viz, I thought it would be a good idea to start my portfolio revisiting and improving old work.
 <br>
+**Status:** Ongoing
 
-
-## Practice Projects
+## Learning Log
 This section showcases some work done during my learning through courses and online resources where I have practiced to apply new tools and functions.
 
 ### Coursera Google Data Analytics Professional Certificate
@@ -35,6 +36,13 @@ This section showcases some work done during my learning through courses and onl
 **Status:** Completed in July 2022 
 <br>
 **Certificate:** ['Google Data Analytics Certificate'](https://github.com/TA-Data-Analyst/Data_Analysis_Portfolio/blob/main/GoogleDataAnalyticsCertificate_Badge20220730-46-ccuh1y.pdf) 
+
+### Learning SQL
+**Description:** I have compiled a list of SQL queries that I have used while completing tasks for various online learning courses I have undertaken.
+<br>
+**Repository:** ['SQL_Repository'](https://github.com/TA-Data-Analyst/SQL_Repository)
+**Status:** Ongoing
+
 
 
 ## Presentation Skills
@@ -44,3 +52,8 @@ This section will list various materials that I have created to showcase my pres
 **Description:** For my Bachelor's dissertation at university, I created a presentation to pitch my topic of choice to fellow students as well as overseeing professors. The aim of the Presentation was to givbe a brief overview and background knowledge of what topic question my dissertation would try to answer. I believe it showcases my ability to make informative yet clear and concise presentations well. 
 <br>
 **Presentation Slides:** ['Pitch Presentation Slides'](https://github.com/TA-Data-Analyst/Data_Analysis_Portfolio/blob/main/TA_dissertation_pitch_presentation.pdf)
+
+
+## Contacts
+- Linkedin: https://www.linkedin.com/in/tahmid-ahmed-aa014a155/
+- Email: tahmid-ahmed97@hotmail.co.uk 
