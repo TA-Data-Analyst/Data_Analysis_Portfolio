@@ -17,8 +17,10 @@ In this portfolio, I am looking to Showcase my skills, projects, progress and im
 - [Learning Log](#learning-log)
   + [Coursera Google Data Analytics Professional Certificate](#coursera-google-data-analytics-professional-certificate)
   + [Learning SQL](#learning-SQL)
+  + [Learning Python](#learning-python)
 - [Presentation Skills](#presentation-skills)
   + [University Dissertation Pitch Presentation](#university-dissertation-pitch-presentation)
+- [Contacts](#contacts) 
 
 ## Portfolio Projects
 This section will showcase a list of projects I have undertaken and briefly describe each project.
@@ -44,7 +46,12 @@ This section showcases some work done during my learning through courses and onl
 <br>
 **Status:** Ongoing
 
-
+### Learning Python
+**Description:** I have compiled a list of Python coding that I have used while completing tasks for various online learning courses I have undertaken.
+<br>
+**Repository**: ['Python_Repository'](https://github.com/TA-Data-Analyst/Python_Repository)
+<br>
+**Status:** Ongoing
 
 ## Presentation Skills
 This section will list various materials that I have created to showcase my presentational skills.
