@@ -18,6 +18,7 @@ In this portfolio, I am looking to Showcase my skills, projects, progress and im
   + [Coursera Google Data Analytics Professional Certificate](#coursera-google-data-analytics-professional-certificate)
   + [Learning SQL](#learning-SQL)
   + [Learning Python](#learning-python)
+  + [Learning R Programming](#learning-r-programming)
 - [Presentation Skills](#presentation-skills)
   + [University Dissertation Pitch Presentation](#university-dissertation-pitch-presentation)
 - [Contacts](#contacts) 
@@ -50,6 +51,11 @@ This section showcases some work done during my learning through courses and onl
 **Description:** I have compiled a list of Python coding that I have used while completing tasks for various online learning courses I have undertaken.
 <br>
 **Repository**: ['Python_Repository'](https://github.com/TA-Data-Analyst/Python_Repository)
+<br>
+**Status:** Ongoing
+
+### Learning R Programming
+**Description:** I have compiled a list of R coding that I have used while completing tasks for various online learning courses I have undertaken.
 <br>
 **Status:** Ongoing
 
