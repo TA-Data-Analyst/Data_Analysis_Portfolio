@@ -57,7 +57,7 @@ This section showcases some work done during my learning through courses and onl
 ### Learning R Programming
 **Description:** I have compiled a list of R coding that I have used while completing tasks for various online learning courses I have undertaken.
 <br>
-**Repository:** [R-Repository](https://github.com/TA-Data-Analyst/R_Repository)
+**Repository:** ['R-Repository'](https://github.com/TA-Data-Analyst/R_Repository)
 <br>
 **Status:** Ongoing
 
