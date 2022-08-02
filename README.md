@@ -12,18 +12,18 @@ In this portfolio, I am looking to Showcase my skills, projects, progress and im
  
 ## Table of Contents
 - [About](#about)
-- [Portfolio Projects](#portfolio-projects) 
+- [Portfolio and Case Study Projects](#portfolio-and-case-study-projects) 
   + [Global Mycobacteria tuberculosis Analysis](#global-mycobacteria-tuberculosis-analysis)
 - [Learning Log](#learning-log)
   + [Coursera Google Data Analytics Professional Certificate](#coursera-google-data-analytics-professional-certificate)
-  + [Learning SQL](#learning-SQL)
+  + [Learning SQL](#learning-sql)
   + [Learning Python](#learning-python)
   + [Learning R Programming](#learning-r-programming)
 - [Presentation Skills](#presentation-skills)
   + [University Dissertation Pitch Presentation](#university-dissertation-pitch-presentation)
 - [Contacts](#contacts) 
 
-## Portfolio Projects
+## Portfolio and Case Study Projects
 This section will showcase a list of projects I have undertaken and briefly describe each project.
 
 ### Global Mycobacteria Tuberculosis Analysis
