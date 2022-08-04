@@ -65,7 +65,7 @@ This section showcases some work done during my learning through courses and onl
 This section will list various materials that I have created to showcase my presentational skills.
 
 ### University Dissertation Pitch Presentation
-**Description:** For my Bachelor's dissertation at university, I created a presentation to pitch my topic of choice to fellow students as well as overseeing professors. The aim of the Presentation was to givbe a brief overview and background knowledge of what topic question my dissertation would try to answer. I believe it showcases my ability to make informative yet clear and concise presentations well. 
+**Description:** For my Bachelor's dissertation at university, I created a presentation to pitch my topic of choice to fellow students as well as overseeing professors. The aim of the Presentation was to give a brief overview and background knowledge of what topic question my dissertation would try to answer. I believe it showcases my ability to make informative yet clear and concise presentations well. 
 <br>
 **Presentation Slides:** ['Pitch Presentation Slides'](https://github.com/TA-Data-Analyst/Data_Analysis_Portfolio/blob/main/TA_dissertation_pitch_presentation.pdf)
 
